@@ -1,0 +1,45 @@
+{
+    "title": "Course Title",
+    "url": "/courses/10000",
+    "sections": [
+        {
+            "title": " Section 1 Title",
+            "lectures": [
+                {
+                    "title": "Lecture 1 Title",
+                    "url": "/courses/course_1_slug/lectures/10000",
+                    "download_links": [
+                        "https://somecdn.com/FEmQ1ppRqyMS1zYCEKrm"
+                    ]
+                },
+                {
+                    "title": "Lecture N Title",
+                    "url": "/courses/course_1_slug/lectures/nnnn",
+                    "download_links": [
+                        "https://somecdn.com/0GDZJkPTSNMVAB18Prtg",
+                        "https://somecdn.com/Fd1rYTvzRPar18Z1RGh1"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": " Section 2 Title",
+            "lectures": [
+                {
+                    "title": "Lecture 1 Title",
+                    "url": "/courses/course_2_slug/lectures/10000",
+                    "download_links": [
+                        "https://somecdn.com/FEmQ1ppRqyMsS1zYCEKrm"
+                    ]
+                },
+                {
+                    "title": "Lecture N Title",
+                    "url": "/courses/course_2_slug/lectures/nnnn",
+                    "download_links": [
+                        "https://somecdn.com/fffFd1drYTvzRPar18Z1RGh1"
+                    ]
+                }
+            ]
+        }
+    ]
+}
